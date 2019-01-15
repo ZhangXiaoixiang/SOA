@@ -1,0 +1,4 @@
+1:以下接口浏览器都可以访问,注意提前启动zookeeper
+http://localhost:8882/controller/getAll.action
+http://localhost:8882/controller/getAll2.action
+2:注意依赖的关系,边写边打包(JDK编译,注意修改path的为jdk)
